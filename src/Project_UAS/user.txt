@@ -1,0 +1,4 @@
+Nomer Rekening,Nama,Saldo
+2212161/Ridho/1000000
+2212162/Kiki/100000
+2212163/Kakak/100000
